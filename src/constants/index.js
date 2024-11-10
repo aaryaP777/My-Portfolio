@@ -2,6 +2,7 @@ import project2 from "../assets/projects/matchmaking.png";
 import project3 from "../assets/projects/sos.png";
 import project4 from "../assets/projects/plant.png";
 import project5 from "../assets/projects/gym.png";
+import project6 from "../assets/projects/weather.png";
 
 export const HERO_CONTENT = `I am a dedicated web developer with a solid foundation in both front-end and back-end technologies. With practical experience in web development, I've crafted scalable, efficient applications that address real-world needs. My expertise includes technologies like React, Node.js, MongoDB, and PostgreSQL, and I am committed to learning and adapting to new challenges. I am motivated to build innovative solutions focused on enhancing user experience and supporting business growth.`;
 
@@ -61,6 +62,14 @@ C++, used NodeMCU and various sensors. Also used Blynk IoT app to implement the 
 management.`,
     technologies: ["NetBeans", "MySQL", "Java"],
     githubLink: "https://github.com/aaryaP777/DBMS_Project",
+  },
+  {
+    title: "Weather App Simulator",
+    image: project6,
+    description: `A weather app simulator for real time weather information, also integrated with vacation planning functionality.`,
+    technologies: ["JavaScript", "HTML", "CSS-Bootstrap"],
+    githubLink:
+      "https://github.com/aaryaP777/Web_Development_Projects/tree/Weather-App-and-Vacay-planner-Simulator/weather%20site",
   },
 ];
 
